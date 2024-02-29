@@ -3,9 +3,9 @@
 Descrição do Projeto
 Este projeto consiste na criação de uma DAG (Directed Acyclic Graph) desenvolvida utilizando o Apache Airflow. A DAG executa as seguintes tarefas:
 
-1- Faz uma solicitação à API da Polygon.io para obter dados financeiros.
-2- Transforma os dados recebidos em um DataFrame usando a biblioteca Pandas.
-3- Insere os dados em uma tabela no Google BigQuery para análise posterior.
+- 1- Faz uma solicitação à API da Polygon.io para obter dados financeiros.
+- 2- Transforma os dados recebidos em um DataFrame usando a biblioteca Pandas.
+- 3- Insere os dados em uma tabela no Google BigQuery para análise posterior.
 
 ## Polygon.io
 
